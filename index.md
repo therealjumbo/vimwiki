@@ -1,6 +1,6 @@
 # index
 
-* tracing
+* [tracing](tracing)
    * [python instrumentation](https://docs.python.org/3/howto/instrumentation.html)
    * [julia evans tracing overview](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
    * [brendan gregg linux perf overview](http://www.brendangregg.com/linuxperf.html)
