@@ -8,3 +8,8 @@
 * cmake
     * [cmake-language](https://cmake.org/cmake/help/v3.12/manual/cmake-language.7.html)
     * [cmake-buildsystem](https://cmake.org/cmake/help/v3.12/manual/cmake-buildsystem.7.html)
+* systemd
+    * [systemd homepage](https://www.freedesktop.org/wiki/Software/systemd/)
+    * [sd-event loop](http://0pointer.net/blog/introducing-sd-event.html)
+    * [daemon](https://www.freedesktop.org/software/systemd/man/daemon.html)
+    * [status to ABRT](https://bugzilla.redhat.com/show_bug.cgi?id=622773)
